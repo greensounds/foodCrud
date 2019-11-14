@@ -1,0 +1,28 @@
+{
+  "restaurant": [
+    {
+      "dishPrice": "200",
+      "dishName": "Flan",
+      "category": "dessert",
+      "id": 1
+    },
+    {
+      "dishPrice": "300",
+      "dishName": "Hamburguer",
+      "category": "main",
+      "id": 2
+    },
+    {
+      "dishName": "pizza",
+      "dishPrice": "50",
+      "category": "main",
+      "id": 3
+    },
+    {
+      "dishName": "chocolate milkshake",
+      "dishPrice": "90",
+      "category": "beverage",
+      "id": 4
+    }
+  ]
+}
